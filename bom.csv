@@ -1,0 +1,16 @@
+Reference,Component,Value,Qty,Unit Price (USD),Total Price (USD),LCSC Part #,Notes
+U1,ICM7555xB (555 timer),CMOS 555 SOIC-8,1,0.2334,0.2334,C6986,TI TLC555CDR
+U2,4017 decade counter,CD4017 SOIC-16,1,0.7334,0.7334,C11349,TI CD4017BM96
+BT1,battery holder,CR2032 SMD clip,1,0.0495,0.0495,C70373,QIJEY CR2032 3V (Keystone 3002 equivalent)
+C1,capacitor,0.1uF 5mm disc,1,0.0800,0.0800,C3034534,verify LCSC part for 0.1uF 5mm disc; price is estimate
+D1,LED,5mm red 20mA,1,0.2238,0.2238,C7151892,Kingbright WP7113SURC
+D2,LED,5mm red 20mA,1,0.2238,0.2238,C7151892,Kingbright WP7113SURC
+D3,LED,5mm red 20mA,1,0.2238,0.2238,C7151892,Kingbright WP7113SURC
+D4,LED,5mm red 20mA,1,0.2238,0.2238,C7151892,Kingbright WP7113SURC
+R1,resistor,1k 1/4W axial,1,0.0200,0.0200,C17630,metal film 1/4W axial; verify exact LCSC part
+R2,resistor,680k 1/4W axial,1,0.0200,0.0200,C17630,metal film 1/4W axial; verify exact LCSC part
+R3,resistor,330 1/4W axial,1,0.0200,0.0200,C17630,metal film 1/4W axial; verify exact LCSC part
+R4,resistor,330 1/4W axial,1,0.0200,0.0200,C17630,metal film 1/4W axial; verify exact LCSC part
+R5,resistor,330 1/4W axial,1,0.0200,0.0200,C17630,metal film 1/4W axial; verify exact LCSC part
+R6,resistor,330 1/4W axial,1,0.0200,0.0200,C17630,metal film 1/4W axial; verify exact LCSC part
+TOTAL,,,,,2.1115,,
