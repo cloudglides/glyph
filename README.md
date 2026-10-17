@@ -1,5 +1,8 @@
 ## Glyph
 
+<img width="705" height="672" alt="Screenshot From 2026-10-17 15-44-28" src="https://github.com/user-attachments/assets/247f9a94-c827-4b40-94b4-52693fa2979d" />
+
+
 # What is it?
 
 its a tech wear keychain, designed with alot of things in mind including the holy drip, it is pretty much a blinky with a chase pattern
